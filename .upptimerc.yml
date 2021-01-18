@@ -13,7 +13,7 @@ status-website:
   cname: status.appany.ru
   logoUrl: https://raw.githubusercontent.com/appany/AppAny.StatusPage/master/assets/logo.png
   name: AppAny | StatusPage
-  introTitle: AppAny status page
+  # introTitle:
   # introMessage:
   navbar:
     - title: Status
