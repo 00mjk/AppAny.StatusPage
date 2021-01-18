@@ -2,11 +2,11 @@ owner: appany
 repo: AppAny.StatusPage
 
 sites:
-  - name: Egrn
+  - name: AppAny Egrn
     url: https://egrn.appany.ru
     maxResponseTime: 1000
     expectedStatusCodes: [200]
-  - name: template
+  - name: AppAny Template
     url: https://template.staging.appany.ru
 
 status-website:
@@ -18,8 +18,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 assignees:
   - sergeyshaykhullin
