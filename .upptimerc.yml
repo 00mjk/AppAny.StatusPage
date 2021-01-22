@@ -11,7 +11,7 @@ sites:
 
 status-website:
   cname: status.appany.ru
-  logoUrl: https://raw.githubusercontent.com/appany/AppAny.StatusPage/master/assets/logo.png
+  logoUrl: https://raw.githubusercontent.com/appany/AppAny.StatusPage/main/assets/logo.png
   name: AppAny | StatusPage
   # introTitle:
   # introMessage:
