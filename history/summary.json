@@ -4,18 +4,20 @@
     "url": "https://egrn.appany.ru",
     "icon": "https://favicons.githubusercontent.com/egrn.appany.ru",
     "slug": "app-any-egrn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 723,
-    "timeWeek": 506,
-    "timeMonth": 517,
-    "timeYear": 517,
-    "dailyMinutesDown": {}
+    "time": 541,
+    "timeDay": 856,
+    "timeWeek": 652,
+    "timeMonth": 541,
+    "timeYear": 541,
+    "dailyMinutesDown": {
+      "2021-01-29": 0
+    }
   },
   {
     "name": "AppAny Template",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 643,
-    "timeWeek": 789,
-    "timeMonth": 921,
-    "timeYear": 921,
+    "time": 1006,
+    "timeDay": 2110,
+    "timeWeek": 951,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   }
 ]
