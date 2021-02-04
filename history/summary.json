@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/egrn.appany.ru",
     "slug": "app-any-egrn",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 591,
     "timeDay": 815,
     "timeWeek": 701,
@@ -26,17 +26,19 @@
     "url": "https://template.staging.appany.ru",
     "icon": "https://favicons.githubusercontent.com/template.staging.appany.ru",
     "slug": "app-any-template",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 700,
-    "timeWeek": 932,
-    "timeMonth": 940,
-    "timeYear": 940,
-    "dailyMinutesDown": {}
+    "time": 946,
+    "timeDay": 881,
+    "timeWeek": 949,
+    "timeMonth": 946,
+    "timeYear": 946,
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   }
 ]
