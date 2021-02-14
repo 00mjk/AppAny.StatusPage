@@ -1,7 +1,7 @@
 url: https://template.staging.appany.ru
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2021-02-13T23:00:50.791Z
+status: down
+code: 500
+responseTime: 807
+lastUpdated: 2021-02-14T20:23:05.933Z
 startTime: Mon Jan 18 2021 11:08:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
