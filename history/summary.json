@@ -26,18 +26,19 @@
     "url": "https://template.staging.appany.ru",
     "icon": "https://favicons.githubusercontent.com/template.staging.appany.ru",
     "slug": "app-any-template",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 858,
-    "timeDay": 645,
-    "timeWeek": 676,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 856,
+    "timeDay": 726,
+    "timeWeek": 692,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {
+      "2021-02-14": 0,
       "2021-02-04": 15
     }
   }
